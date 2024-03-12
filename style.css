@@ -1,0 +1,9 @@
+.cabeçalho{background-color: #191828;
+color: white;
+display: flex;
+}
+
+.cabeçalho-img{
+width: 10%;
+
+}
