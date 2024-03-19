@@ -1,9 +1,25 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
 .cabeçalho{background-color: #191828;
 color: white;
 display: flex;
+justify-content: space-around;
+
 }
+
 
 .cabeçalho-img{
 width: 10%;
+
+}
+
+.titulo{
+    display:inline-block;
+    font-size: 250%;
+    font-style:italic;
 
 }
