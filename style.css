@@ -13,13 +13,14 @@ justify-content: space-around;
 
 
 .cabeçalho-img{
-width: 10%;
+width: 8%;
 
 }
 
-.titulo{
+.titulo{ 
     display:inline-block;
-    font-size: 250%;
-    font-style:italic;
+    font-size: 40%;
+    margin: 30px;
+    
 
 }
